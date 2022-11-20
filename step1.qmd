@@ -1,0 +1,8 @@
+---
+title: "Step 1: Leading myself"
+format: 
+  revealjs:
+    theme: dark
+editor: visual
+---
+
